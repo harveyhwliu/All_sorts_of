@@ -1,6 +1,6 @@
 Markdown
 ==
-`![Markdown](/All_sorts_of/Markdown/markdown.jpg)`
+`![Markdown](Markdown/markdown.jpg)`
 
 [参考1](https://blog.csdn.net/shaukon/article/details/78173911)  
 [参考2](https://blog.csdn.net/qq_40815337/article/details/83379005)  

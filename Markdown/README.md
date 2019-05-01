@@ -1,6 +1,6 @@
 Markdown
 ==
-`![Markdown](./markdown.jpg)`
+`![Markdown](/All_sorts_of/Markdown/markdown.jpg)`
 
 >[参考1](：https://blog.csdn.net/shaukon/article/details/78173911)  
 >[参考2](：https://blog.csdn.net/qq_40815337/article/details/83379005)  
@@ -188,3 +188,27 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 >> | Pipe      |    1 USD | 234  |  
 
 
+>> ###13、流程图  
+flow  
+st=>start: Start  
+e=>end  
+op=>operation: My Operation  
+cond=>condition: Yes or No?  
+
+st->op->cond  
+cond(yes)->e  
+cond(no)->op  
+
+
+
+>>```  
+flow  
+st=>start: Start  
+e=>end  
+op=>operation: My Operation  
+cond=>condition: Yes or No?  
+
+st->op->cond  
+cond(yes)->e  
+cond(no)->op  
+>>``` 

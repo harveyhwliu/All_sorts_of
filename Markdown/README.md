@@ -1,6 +1,7 @@
 Markdown
 ==
-`![Markdown](Markdown/markdown.jpg)`
+![Markdown](Markdown/markdown.jpg)
+
 
 [参考1](https://blog.csdn.net/shaukon/article/details/78173911)  
 [参考2](https://blog.csdn.net/qq_40815337/article/details/83379005)  
@@ -142,7 +143,7 @@ Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John G
   
   
 ###7、图片  
-`![图片的替换文件](/path/to/img.jpg) `   
+![图片的替换文件](Markdown/markdown.jpg)    
 详细叙述如下：一个惊叹号 !接着一个方括号，里面放上图片的替代文字，接着一个普通括号，里面放上图片的网址  
 
 

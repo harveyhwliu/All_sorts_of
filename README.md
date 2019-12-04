@@ -23,8 +23,8 @@ Size：规定文本的尺寸大小。可能的值：从 1 到 7 的数字。浏�
 ```
 
 ### 04 上下标
-   - 下标： H<sub>2</sub>
-   - 上标： CO<sup>2</sup>
+   - 下标： H<sub>2</sub>  CO<sub>2</sub>
+   - 上标： X <sup>2</sup>
 ```git
 下标：H<sub>2</sub>O  CO<sub>2</sub>
 上标：X<sup>2</sup>
